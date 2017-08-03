@@ -1,2 +1,2 @@
 # test1
-just a test
+\nu_{\mu}
